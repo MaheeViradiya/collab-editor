@@ -12,13 +12,13 @@
 
 "MENTOR" : SANTHOSH
 
-Overview:
+📌Overview:
 
 This is a real-time collaborative document editor built using the MERN stack and Socket.IO. 
 
 It allows multiple users to edit the same document simultaneously, with changes updating instantly across all users.
 
-Features:
+💡Features:
 
 Create and edit documents
 
@@ -30,7 +30,7 @@ Auto-save to MongoDB
 
 Shareable document links
 
-Tech Stack:
+🛠️Tech Stack:
 
 Frontend: React.js
 
@@ -40,7 +40,7 @@ Database: MongoDB
 
 Real-time: Socket.IO
 
-How It Works:
+⚙️How It Works:
 
 Users open a document using a unique ID
 
@@ -50,7 +50,7 @@ Server broadcasts updates to all users
 
 Data is saved automatically in MongoDB
 
-Conclusion:
+🎯Conclusion:
 
 This project helped me understand real-time applications and full-stack development using modern technologies.
 
