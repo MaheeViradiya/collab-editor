@@ -16,10 +16,15 @@ Overview:
 This is a real-time collaborative document editor built using the MERN stack and Socket.IO. It allows multiple users to edit the same document simultaneously, with changes updating instantly across all users.
 
 Features:
+
 Create and edit documents
+
 Real-time collaboration
+
 Instant updates for all users
+
 Auto-save to MongoDB
+
 Shareable document links
 
 Tech Stack:
