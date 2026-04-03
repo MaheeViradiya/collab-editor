@@ -56,4 +56,4 @@ This project helped me understand real-time applications and full-stack developm
 
 OUTPUT:
 
-![Editor UI](Output/photo.png)
+![Editor UI](Output/photo.jpg)
