@@ -55,3 +55,5 @@ Data is saved automatically in MongoDB
 This project helped me understand real-time applications and full-stack development using modern technologies.
 
 OUTPUT:
+
+![Editor UI](Output/photo.png)
