@@ -1,0 +1,23 @@
+
+body{
+  background: #490457;
+}
+
+.ql-toolbar {
+  border: none !important;
+  background: #f9fafb;
+  border-radius: 15px 15px 0 0;
+}
+
+.ql-container {
+  border: none !important;
+  background: #ffffff;
+  border-radius: 0 0 15px 15px;
+}
+
+
+/* .ql-container {
+  border: none !important;
+  background: rgba(255,255,255,0.9);
+  backdrop-filter: blur(10px);
+} */
